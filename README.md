@@ -1,5 +1,5 @@
-<h1 align="center">Xin chào 👋, tôi là Wind Lập Trinh</h1>
-<h3 align="center">Nhà phát triển phần mềm, websie, mini app Zalo</h3>
+<h1 align="center">Xin chào 👋, tôi là Wind Lập Trình</h1>
+<h3 align="center" style="font-size:12px">Nhà phát triển phần mềm, website, mini app Zalo, sáng tạo, độc đáo, mới mẻ.</h3>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
 
 - 📫 Cách liên hệ với tôi **windlaptrinh.dev@gmail.com**
