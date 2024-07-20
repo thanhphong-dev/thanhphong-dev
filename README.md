@@ -1,6 +1,6 @@
 <h1 align="center">Xin chào 👋, tôi là Wind Lập Trình</h1>
 <h3 align="center" style="font-size:12px">Nhà phát triển phần mềm, website, mini app Zalo, sáng tạo, độc đáo, mới mẻ.</h3>
-<img src="https://media.proglib.io/wp-uploads/2017/10/1-vHUiXvBE0p0fLRwFHZuAYw.gif" width="900">
+<img src="https://media.proglib.io/wp-uploads/2017/10/1-vHUiXvBE0p0fLRwFHZuAYw.gif" width="900" height="600px">
 
 - 📫 Cách liên hệ với tôi **windlaptrinh.dev@gmail.com**
 
