@@ -1,4 +1,4 @@
-<h1 align="center">Xin chào 👋, tôi là Developer PHP Laravel, Zalo Mini App</h1>
+<h1 align="center">Xin chào 👋, tôi là Wind Developer</h1>
 <h3 align="center" style="font-size:12px">Nhà phát triển phần mềm, website, mini app Zalo, sáng tạo, độc đáo, mới mẻ.</h3>
 <img src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif">
 
