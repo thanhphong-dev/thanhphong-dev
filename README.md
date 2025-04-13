@@ -1,6 +1,6 @@
 <h1 align="center">Xin chào 👋, tôi là Developer PHP Laravel, Zalo Mini App</h1>
 <h3 align="center" style="font-size:12px">Nhà phát triển phần mềm, website, mini app Zalo, sáng tạo, độc đáo, mới mẻ.</h3>
-<img src="https://media.proglib.io/wp-uploads/2017/10/1-vHUiXvBE0p0fLRwFHZuAYw.gif" max-width="80%" height="600px">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.jetbrains.com%2Fgo%2F2021%2F02%2F03%2Fthe-state-of-go%2F&psig=AOvVaw2MwOm9W0D3NBav5ZpzlKVA&ust=1744600614763000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCNC_leyF1IwDFQAAAAAdAAAAABCGAQ" max-width="80%" height="600px">
 
 - 📫 Cách liên hệ với tôi **windlaptrinh.dev@gmail.com**
 
