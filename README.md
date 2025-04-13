@@ -2,8 +2,6 @@
 <h3 align="center" style="font-size:12px">Nhà phát triển phần mềm, website, mini app Zalo, sáng tạo, độc đáo, mới mẻ.</h3>
 <img src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif">
 
-- 📫 Cách liên hệ với tôi **windlaptrinh.dev@gmail.com**
-
 <h3 align="left">Kết nối với tôi:</h3>
 <p align="left">
 <a href="https://fb.com/windlaptrinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wind lập trình" height="30" width="40" /></a>
@@ -42,9 +40,5 @@
 <a href="https://golang.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"> 
 </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a> 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=windlaptrinh&show_icons=true&locale=en&layout=compact" alt="windlaptrinh" /></p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+</a>
